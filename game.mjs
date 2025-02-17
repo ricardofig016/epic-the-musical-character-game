@@ -24,9 +24,19 @@ function showModal(imgSrc, title, text) {
 
 function showFinalModal() {
   if (score < -10)
-    showModal(memesPath + "angrytrain.jpg", "this was a disgrace", "you should be ashamed of yourself");
-  else if (score <= 0) showModal(memesPath + "sideeye.jpg", "hmmmm ok...", "thats not the best score is it");
-  else if (score > 0) showModal(memesPath + "absolutecinema.webp", "amazing", "good job");
+    showModal(
+      memesPath + "angrytrain.jpg",
+      "this was a disgrace",
+      "you should be ashamed of yourself - final score: " + score
+    );
+  else if (score <= 0)
+    showModal(
+      memesPath + "sideeye.jpg",
+      "hmmmm ok...",
+      "thats not the best score is it - final score: " + score
+    );
+  else if (score > 0)
+    showModal(memesPath + "absolutecinema.webp", "amazing", "good job - final score: " + score);
 }
 
 function loadCharacter(characters) {
