@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script type="module" src="game.mjs" defer></script>
+    <title>epic the musical game</title>
+  </head>
+  <body>
+    <p id="score-p">score: <span id="score">0</span></p>
+    <div id="main-container">
+      <img id="character-image" src="" alt="character image" />
+      <div id="hints-container"></div>
+      <div>
+        <input
+          id="guess"
+          type="text"
+          placeholder="guess the name"
+          autocomplete="off"
+          autocorrect="off"
+          spellcheck="false"
+        />
+        <button id="submit" type="submit">submit</button>
+        <button id="hint" type="button">hint (<span id="hint-score-penalty">-1</span>)</button>
+      </div>
+    </div>
+    <div id="modal">
+      <div id="modal-content">
+        <img id="modal-img" src="" alt="modal image" />
+        <h2 id="modal-title"></h2>
+        <p id="modal-text"></p>
+        <button id="modal-close" type="button">close</button>
+      </div>
+    </div>
+  </body>
+</html>

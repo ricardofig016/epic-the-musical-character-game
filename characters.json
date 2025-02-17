@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Aeolus",
+    "hints": ["Wind God", "All you gotta do is not open this bag!"]
+  },
+
+  {
+    "name": "Amphinomus",
+    "hints": ["Suitor of Penelope", "Now that we have armed ourselves, let's make the bastard rot!"]
+  },
+  {
+    "name": "Anticlea",
+    "hints": ["Late Queen", "Even if you're the last thing I see, I'll be waiting"]
+  },
+  {
+    "name": "Antinous",
+    "hints": ["Leader of the Suitors", "Where in the hell is our pride and our rage?!"]
+  },
+  {
+    "name": "Aphrodite",
+    "hints": ["Goddess of Beauty", "Let him feel the pain that his mother felt and rot"]
+  },
+  {
+    "name": "Apollo",
+    "hints": ["God of Light", "You all know I'm a fan of catchy songs!"]
+  },
+  {
+    "name": "Ares",
+    "hints": ["God of War", "What kind of sick coward holds back his power while his friends get devoured?"]
+  },
+  {
+    "name": "Athena",
+    "hints": ["Goddess of Wisdom", "Let's teach this dog a lesson in front of all his kind!"]
+  },
+  {
+    "name": "Calypso",
+    "hints": ["Goddess of Charm", "If you hate me, then I am sorry my love's too much for you!"]
+  },
+  {
+    "name": "Circe",
+    "hints": ["Lady of the Palace", "No I'm not a player, I'm a puppeteer!"]
+  },
+  {
+    "name": "Eurylochus",
+    "hints": ["Second In Command", "If you want all the power, you must carry all the blame!"]
+  },
+  {
+    "name": "Eurymachus",
+    "hints": ["Suitor of Penelope", "Old king, forgive us instead, so that no more blood is shed!"]
+  },
+  {
+    "name": "Hephaestus",
+    "hints": ["God of Fire", "Trust is not given, it's forged."]
+  },
+  {
+    "name": "Hera",
+    "hints": [
+      "Queen of Olympus",
+      "So many heroes. So many tales. Give me one good reason why yours should prevail"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "hints": ["Messenger of the Gods", "Someone who's not afraid to... send a message!"]
+  },
+  {
+    "name": "Melanthius",
+    "hints": ["Suitor of Penelope", "We can still defeat the king if we all attack the prince!"]
+  },
+
+  {
+    "name": "Odysseus",
+    "hints": ["King of Ithaca", "When does a man become a monster?"]
+  },
+  {
+    "name": "Penelope",
+    "hints": ["Queen Of Ithaca", "I will fall in love with you over and over again!"]
+  },
+  {
+    "name": "Perimedes",
+    "hints": ["Captain Stabber", "Open the bag!"]
+  },
+  {
+    "name": "Polites",
+    "hints": ["Pancake", "This life is amazing when you greet It with open arms!"]
+  },
+
+  {
+    "name": "Polyphemus",
+    "hints": ["Son of Poseidon", "Don't you know that pain you sow is pain you reap?"]
+  },
+
+  {
+    "name": "Poseidon",
+    "hints": ["King of the Ocean", "Ruthlessness is mercy upon ourselves!"]
+  },
+  {
+    "name": "Scylla",
+    "hints": ["Sea Monster", "We must do what it takes to survive"]
+  },
+  {
+    "name": "Telemachus",
+    "hints": ["Prince of Ithaca", "Maybe to fall is to learn one way!"]
+  },
+  {
+    "name": "Tiresias",
+    "hints": ["The Prophet", "Time, I've unlocked it. I see past and future running free."]
+  },
+
+  {
+    "name": "Winions",
+    "hints": ["Lotus Eaters", "The cave, the scary cave"]
+  },
+  {
+    "name": "Zeus",
+    "hints": ["King of the Gods", "Show her I'm the judgment call"]
+  }
+]
