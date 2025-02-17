@@ -72,9 +72,9 @@ function loadCharacter(characters) {
       const distance = levenshtein(guess, character.name);
       console.log("distance:", distance);
       if (distance <= 2) {
-        showModal(memesPath + "meh.jpg", "close enough", guess + " → " + character.name + "(+0)");
+        showModal(memesPath + "meh.jpg", "close enough", guess + " → " + character.name + " (+0)");
       } else {
-        showModal(memesPath + "wtf.jpg", "girl...", guess + " → " + character.name + "(-3)");
+        showModal(memesPath + "wtf.jpg", "girl...", guess + " → " + character.name + " (-3)");
         score -= 3;
         updateScore();
       }
