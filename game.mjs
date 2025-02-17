@@ -40,7 +40,7 @@ function loadCharacter(characters) {
   const oldMainContainer = document.getElementById("main-container");
   const newMainContainer = oldMainContainer.cloneNode(true);
   oldMainContainer.parentNode.replaceChild(newMainContainer, oldMainContainer);
-  document.getElementById("character-image").src = `/images/characters/${character.name}.webp`;
+  document.getElementById("character-image").src = `images/characters/${character.name}.webp`;
   document.getElementById("guess").value = "";
   function submitEvent() {
     const guess = document.getElementById("guess").value.toLowerCase();
@@ -114,7 +114,7 @@ function updateScore() {
   document.getElementById("score").textContent = score;
 }
 
-const memesPath = "/images/memes/";
+const memesPath = "images/memes/";
 let score = 0;
 updateScore();
 document.addEventListener("DOMContentLoaded", async () => {
