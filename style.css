@@ -58,6 +58,13 @@ p {
   text-align: center;
 }
 
+select {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
 #score-p {
   position: absolute;
   top: 0;
