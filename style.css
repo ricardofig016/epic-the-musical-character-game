@@ -109,6 +109,7 @@ select {
   &.hidden {
     display: none;
   }
+  overflow: scroll;
 }
 
 #modal-content {
